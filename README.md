@@ -1,4 +1,4 @@
-# **React Native Kit 2021**
+# **Store Interview**
 
 ## 🚀 Getting Started
 
@@ -26,7 +26,6 @@ yarn android
 ## Tree
 ``` bash 
 .
-├── App.js
 ├── android
 ├── ios
 ├── _tests__
@@ -37,11 +36,11 @@ yarn android
 ├── metro.config.js
 ├── package.json
 └── src
-    ├── api
     ├── assets
     ├── components
     ├── navigations
-    ├── redux
+    ├── slice
+    ├── store
     ├── screens
     └── utilities
 ````
